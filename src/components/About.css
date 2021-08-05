@@ -1,0 +1,31 @@
+.about {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 1rem;
+  top: 10vh;
+  background-color: #20254C;
+}
+
+.profile-pic {
+  height: 30rem;
+  width: 30rem;
+  margin: 0 auto;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.about-me {
+  margin: 0 auto;
+  flex-direction: column;
+  width: 50%;
+  font-size: 2rem;
+  text-align: left;
+  color: #E2FAFE;
+}
+
+.about-me h1 {
+  margin-bottom: 4rem;
+  color: #CD9E28;
+}

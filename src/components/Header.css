@@ -1,0 +1,28 @@
+.header {
+  height: 10vh;
+  display: flex;
+  width: 100%;
+  position: fixed;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: #20254C;
+  z-index: 100;
+  box-shadow: black 1px 1px 20px 2px;
+}
+
+.nav-bar {
+  font-size: 1.5rem;
+  display: flex;
+}
+
+.header-link {
+  text-decoration: none;
+  margin-right: 7rem;
+  color: rgba(205, 158, 40, 0.7);
+  font-weight: 700;
+}
+
+.header-link:hover {
+  color: rgb(204, 158, 40);
+  text-decoration: underline;
+}

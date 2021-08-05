@@ -1,0 +1,35 @@
+.projects {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 1rem;
+  top: 10vh;
+  background-color: #3189D0;
+}
+
+.project-list {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.project-description {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: 2rem;
+  padding: 2rem;
+  border-radius: 1rem;
+  background-color: #E2FAFE;
+}
+
+.project-description h1 {
+  margin-top: 1rem;
+}
+
+.project-description p {
+  font-size: 2rem;
+  margin-top: 2rem;
+}
