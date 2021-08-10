@@ -18,11 +18,10 @@
 .header-link {
   text-decoration: none;
   margin-right: 7rem;
-  color: rgba(205, 158, 40, 0.7);
+  color: rgba(205, 158, 40, 1);
   font-weight: 700;
 }
 
 .header-link:hover {
-  color: rgb(204, 158, 40);
   text-decoration: underline;
 }

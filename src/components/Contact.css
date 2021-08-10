@@ -15,11 +15,3 @@
   align-items: center;
 }
 
-.contact-icon {
-  filter: opacity(0.7);
-  /* color: #CD9E28; */
-}
-
-.contact-icon:hover {
-  filter: opacity(1);
-}
