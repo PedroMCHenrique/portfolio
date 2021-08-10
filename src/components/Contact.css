@@ -15,3 +15,10 @@
   align-items: center;
 }
 
+.contact-icon {
+  transition: 0.5s;
+}
+
+.contact-icon:hover {
+  transform: scale(1.2);
+}
