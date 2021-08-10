@@ -25,7 +25,11 @@
   color: #E2FAFE;
 }
 
-.about-me h1 {
-  margin-bottom: 6rem;
+.about-h1 {
+  margin-bottom: 3rem;
   color: #CD9E28;
+}
+
+.about-p {
+  text-align: justify;
 }

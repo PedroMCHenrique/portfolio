@@ -6,8 +6,10 @@ const About = () => (
   <div className="about" id="about">
     <img src={ Picture } alt="smiling-man" className="profile-pic" />
     <div className="about-me">
-      <h1>Pedro Henrique</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, expedita tempora voluptates ut repellendus doloremque unde temporibus natus molestiae reiciendis optio? Aspernatur commodi deserunt sed recusandae illo dolor itaque voluptatum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, provident! Aspernatur eos consequatur eum repellat unde! Necessitatibus possimus asperiores debitis alias minus. Fugit in vero odit soluta ducimus id dolor.</p>
+      <h1 className="about-h1">Pedro Henrique</h1>
+      <p className="about-p">
+        Desde criança tive contato com tecnologia mas nunca havia pensado em deixar de ser uma pessoa usuária e me tornar um desenvolvedor. Acabei escolhendo pela graduação em letras mas passei a atuar no setor de vendas. Por insentivo de minha noiva, enxerguei a oportunidade de abraçar este universo de desenvolvimento web.
+      </p>
     </div>
   </div>
 );
