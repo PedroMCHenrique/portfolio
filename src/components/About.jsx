@@ -8,7 +8,7 @@ const About = () => (
     <div className="about-me">
       <h1 className="about-h1">Pedro Henrique</h1>
       <p className="about-p">
-        Desde criança tive contato com tecnologia mas nunca havia pensado em deixar de ser uma pessoa usuária e me tornar um desenvolvedor. Acabei escolhendo pela graduação em letras mas passei a atuar no setor de vendas. Por insentivo de minha noiva, enxerguei a oportunidade de abraçar este universo de desenvolvimento web.
+        Desde criança tive contato com tecnologia mas nunca havia pensado em deixar de ser uma pessoa usuária e me tornar um desenvolvedor. Acabei escolhendo pela graduação em letras mas passei a atuar no setor de vendas. Por incentivo de minha noiva, enxerguei a oportunidade de abraçar este universo de desenvolvimento web.
       </p>
     </div>
   </div>
